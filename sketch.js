@@ -485,7 +485,7 @@ function fase3(){
            text("Parabén você conseguiu escapar!",4,80)
            textSize(20)
            fill(0,255,255)
-           text("Agora sua missão é lembrar ao mundo  que"+"\n"+"a intolerância e a violência nunca serão"+"\n"+"uma opção valída prara deixar de lado"+"\n"+" toda e Qualquer diferença!"+"\n"+"As nossas diferenças são aquilo"+"\n"+" que nos torna seres únicos!",0,150)
+           text("Agora sua missão é lembrar ao mundo  que"+"\n"+"a intolerância e a violência nunca serão"+"\n"+"uma opção valída para deixar de lado"+"\n"+" toda e Qualquer diferença!"+"\n"+"As nossas diferenças são aquilo"+"\n"+" que nos tornam seres únicos!",0,150)
          }
   
     function instruções(){
